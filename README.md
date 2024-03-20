@@ -12,7 +12,8 @@ Wolfgang Romanowski
 StudySphere
 
 # Project Vision
-FOR students in universities WHO want to switch from Slack or Discord because Slack has become a paid service and Discord has a file size limit THE StudySphere IS A communication service THAT has no forced subscription and higher file size limits. UNLIKE Slack, Discord and Zoom OUR PRODUCT will have interactive lectures that could replace zoom calls during situations like covid. A collaborative notes section where students and lecturers can share notes amongst each other. StudySphere will also have a task scheduler where students and lecturers can plan tasks that need to be completed in a specific time frame.
+FOR students in universities WHO want to switch from Slack or Discord because Slack has become a paid service and Discord has a file size limit THE StudySphere IS A communication service THAT has no forced subscription and higher file size limits. 
+UNLIKE Slack, Discord and Zoom OUR PRODUCT will have interactive lectures that could replace zoom calls during situations like covid. A collaborative notes section where students and lecturers can share notes amongst each other. StudySphere will also have a task scheduler where students and lecturers can plan tasks that need to be completed in a specific time frame.
 
 # Features
 Account Management:
